@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libfluoportrait_core.a CMakeFiles/fluoportrait_core.dir/src/color_science.cpp.o CMakeFiles/fluoportrait_core.dir/src/image_processor.cpp.o CMakeFiles/fluoportrait_core.dir/src/png_loader.cpp.o CMakeFiles/fluoportrait_core.dir/src/icc_profile.cpp.o CMakeFiles/fluoportrait_core.dir/src/jpeg_io.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libfluoportrait_core.a

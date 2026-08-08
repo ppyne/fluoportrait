@@ -1,0 +1,19 @@
+Start testing: Aug 08 21:23 CEST
+----------------------------------------------------------
+1/1 Testing: fluoportrait_tests
+1/1 Test: fluoportrait_tests
+Command: "/Users/avialle/dev/fluoportrait/build/fluoportrait_tests"
+Directory: /Users/avialle/dev/fluoportrait/build
+"fluoportrait_tests" start time: Aug 08 21:23 CEST
+Output:
+----------------------------------------------------------
+All color-science and export tests passed
+<end of output>
+Test time =   0.28 sec
+----------------------------------------------------------
+Test Passed.
+"fluoportrait_tests" end time: Aug 08 21:23 CEST
+"fluoportrait_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 08 21:23 CEST
