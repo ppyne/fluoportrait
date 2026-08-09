@@ -18,28 +18,28 @@ See [docs/color-science.md](docs/color-science.md) for the transforms and assump
 Here is a color palette of possible background PQ values:
 
 Red rgb(255,147,204) estimated 2851 nits  
-![Red](samples/fluo_rouge_260,147,204.jpg)
+![Red](samples/fluo_rouge_260,147,204.jpg) ![Normal Red](samples/normal_red.jpg)
 
 Yellow 1 rgb(196,202,156) estimated 1304 nits  
-![Yellow1](samples/fluo_jaune1_196,202,156.jpg)
+![Yellow1](samples/fluo_jaune1_196,202,156.jpg) ![Normal Yellow 1](samples/normal_yellow1.jpg)
 
 Yellow 2 rgb(255,255,147) estimated 9419 nits  
-![Yellow2](samples/fluo_jaune2_260,259,147.jpg)
+![Yellow2](samples/fluo_jaune2_260,259,147.jpg) ![Normal Yellow 2](samples/normal_yellow2.jpg)
 
 Green 1 rgb(155,255,147) estimated 6861 nits  
-![Green1](samples/fluo_vert1_155,260,147.jpg)
+![Green1](samples/fluo_vert1_155,260,147.jpg) ![Normal Green 1](samples/normal_green1.jpg)
 
 Green 2 rgb(147,255,230) estimated 7067 nits  
-![Green2](samples/fluo_vert2_147,260,230.jpg)
+![Green2](samples/fluo_vert2_147,260,230.jpg) ![Normal Green 2](samples/normal_green2.jpg)
 
 Blue rgb(147,255,255) estimated 7424 nits  
-![Blue](samples/fluo_bleu_147,260,260.jpg)
+![Blue](samples/fluo_bleu_147,260,260.jpg) ![Normal Blue](samples/normal_blue.jpg)
 
 Violet rgb(238,147,255) estimated 2125 nits  
-![Violet](samples/fluo_violet_238,147,260.jpg)
+![Violet](samples/fluo_violet_238,147,260.jpg) ![Normal Violet](samples/normal_violet.jpg)
 
 Ultra white rgb(255,255,255) estimated 10000 nits  
-![Ultra white](samples/fluo_ultrawhite_255,255,255.jpg)
+![Ultra white](samples/fluo_ultrawhite_255,255,255.jpg) ![Normal White](samples/normal_white.jpg)
 
 Here are some examples
 
