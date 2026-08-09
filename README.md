@@ -15,6 +15,8 @@ The ICC file is intentionally supplied externally: the project does not redistri
 
 See [docs/color-science.md](docs/color-science.md) for the transforms and assumptions.
 
+**Warning: works only on modern HDR-capable displays, such as the Apple Studio Display and some smartphones, and in a browser or application that correctly supports ICC color profiles.**
+
 Here is a color palette of possible background PQ values:
 
 Red rgb(255,147,204) estimated 2851 nits  
