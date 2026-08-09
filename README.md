@@ -15,7 +15,7 @@ The ICC file is intentionally supplied externally: the project does not redistri
 
 See [docs/color-science.md](docs/color-science.md) for the transforms and assumptions.
 
-**Warning: works only on modern HDR-capable displays, such as the Apple Studio Display and some smartphones, and in a browser or application that correctly supports ICC color profiles.**
+**Warning: works only on modern HDR-capable displays, such as the Apple Studio Display and some smartphones, and in a browser or application that correctly supports ICC color profiles (Google Chrome, Chromium, Microsoft Edge).**
 
 Here is a color palette of possible background PQ values:
 
