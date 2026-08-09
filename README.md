@@ -43,6 +43,8 @@ Violet rgb(238,147,255) estimated 2125 nits
 Ultra white rgb(255,255,255) estimated 10000 nits  
 ![Ultra white](samples/fluo_ultrawhite_255,255,255.jpg) ![Normal White](samples/normal_white.jpg)
 
+If you notice that the color in the large square (64 × 64 px) is the same as the color in the small square (32 × 32 px), rather than appearing brighter, then either your display, your browser, or both do not support this type of bright, fluorescent color. 😕
+
 Here are some examples
 
 ![Portrait 1](samples/result_196,202,156.jpg)
