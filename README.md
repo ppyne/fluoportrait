@@ -48,5 +48,3 @@ Here are some examples
 ![Portrait 2](samples/portrait_red.jpg)
 
 ![Portrait 2](samples/ultra_white.jpg)
-
-
